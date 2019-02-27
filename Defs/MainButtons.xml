@@ -7,5 +7,13 @@
     <tabWindowClass>DubsMintMenus.MainTabWindow_Dialog_BobTheRossBuilderMenu</tabWindowClass>
     <buttonVisible>false</buttonVisible>
     <defaultHotKey>Z</defaultHotKey>
-  </MainButtonDef>  
+  </MainButtonDef>
+
+  <KeyBindingCategoryDef>
+    <defName>MintMenus</defName>
+    <label>Mint Menus</label>
+    <description>Keybinds for Dubs Mint Menus.</description>
+    <isGameUniversal>true</isGameUniversal>
+  </KeyBindingCategoryDef>
+
 </Defs>
