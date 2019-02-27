@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <ModMetaData>
-	<name>Dubs Mint Menus DEV</name>
+	<name>Dubs Mint Menus</name>
 	<author>Dubwise</author>
-	<url>https://ludeon.com/forums/index.php?topic=29043.0</url>
+	<url></url>
 	  <supportedVersions>
     <li>1.0</li>
   </supportedVersions>
-	<description>Simple</description>
+	<description>This mod adds new list boxes for adding bills, health bills, selecting plants for growing zones and building, making it easier to find things when lots of mods are running, and you can also view the info tab with just a mouse over.\n\nv1.0.219\n\nMultiplayer ready</description>
 </ModMetaData>
