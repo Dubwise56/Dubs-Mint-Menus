@@ -8,7 +8,7 @@ New health bills tab with search.
 
 New building UI which can be opened using a shotcut that is found the key bindings options.
 
-[b]Search tips[/b]
+Search tips
 You can use the search box to filter results as you type, things you can search for include:
 Recipe name - e.g. "hat"
 Product name - "hat"
@@ -20,13 +20,13 @@ Apparel layer - "OnSkin"
 
 Now works with "better workbench management"
 
-[url=https://ludeon.com/forums/index.php?topic=29043.0]Non steam versions[/url]
+https://ludeon.com/forums/index.php?topic=29043.0
 
-Discord for my mods: [url=https://discord.gg/bajcjsu]Discord[/url]
+Discord for my mods: https://discord.gg/bajcjsu]Discord
 
 Check out my other mods here:
 https://steamcommunity.com/profiles/76561197976408970/myworkshopfiles/?appid=294100
 
 Support links!
 
-[url=https://ko-fi.com/T6T6MYO0] [img]https://i.imgur.com/h2zFmKV.png[/img] [/url]
+https://ko-fi.com/T6T6MYO0
