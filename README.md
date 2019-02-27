@@ -9,13 +9,21 @@ New health bills tab with search.
 New building UI which can be opened using a shotcut that is found the key bindings options.
 
 Search tips
+
 You can use the search box to filter results as you type, things you can search for include:
+
 Recipe name - e.g. "hat"
+
 Product name - "hat"
+
 Mod name - "core"
+
 Stuff Categories - "leathery"
+
 Apparel body parts - "legs"
+
 Apparel tags - "industrial"
+
 Apparel layer - "OnSkin"
 
 Now works with "better workbench management"
