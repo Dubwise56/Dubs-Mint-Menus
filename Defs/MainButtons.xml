@@ -9,6 +9,15 @@
     <defaultHotKey>Z</defaultHotKey>
   </MainButtonDef>
 
+  <MainButtonDef>
+    <defName>MintResearch</defName>
+    <label>mint research</label>
+    <description>Search research projects.</description>
+    <tabWindowClass>DubsMintMenus.MainTabWindow_MintResearch</tabWindowClass>
+    <buttonVisible>false</buttonVisible>
+    <defaultHotKey></defaultHotKey>
+  </MainButtonDef>
+
   <KeyBindingCategoryDef>
     <defName>MintMenus</defName>
     <label>Mint Menus</label>
