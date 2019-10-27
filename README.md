@@ -49,4 +49,10 @@ https://steamcommunity.com/profiles/76561197976408970/myworkshopfiles/?appid=294
 
 Support links!
 
-https://ko-fi.com/T6T6MYO0
+If you have enjoyed the content i have added to the game over the years please consider showing support
+
+[![Foo](https://i.imgur.com/v2Jk4qf.png)](paypal.me/dubwise56)
+
+[![Foo](https://i.imgur.com/h2zFmKV.png)](https://ko-fi.com/T6T6MYO0)
+
+[![Foo](https://i.imgur.com/5Szqiqo.png)](https://www.patreon.com/dubwise56)
