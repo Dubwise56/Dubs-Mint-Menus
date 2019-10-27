@@ -47,7 +47,6 @@ Discord for my mods: https://discord.gg/bajcjsu]Discord
 Check out my other mods here:
 https://steamcommunity.com/profiles/76561197976408970/myworkshopfiles/?appid=294100
 
-Support links!
 
 If you have enjoyed the content i have added to the game over the years please consider showing support
 
