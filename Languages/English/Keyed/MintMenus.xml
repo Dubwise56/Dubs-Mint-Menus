@@ -1,5 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <ReplacePlantMenu>Mint Plant Menu</ReplacePlantMenu>
+  <ResearchCompletionMode>Research Completion Mode</ResearchCompletionMode>
+  <MintHelpLinks>Support Links</MintHelpLinks>
+  <MintDiscord>Dubs Mods Discord</MintDiscord>
+  <ProjectStalled>Research project requirements are not met</ProjectStalled>
+  <ProjectStopped>Project stopped</ProjectStopped>
+  <MintWiki>Mint Menus Wiki</MintWiki>
   <SetButtonsFromBuildo>Add buttons using the Mint build menu (ctrl click architect menu)</SetButtonsFromBuildo>
   <BillSearchTip>Searchable words include:\n\nAny words in bill labels or product labels e.g. pants\n\nStuff catagories e.g. leather\n\nBody part groups e.g. head\n\nTags e.g. industrial\n\nLayers e.g. overhead</BillSearchTip>
   <NoActiveProject>No Active Project</NoActiveProject>
