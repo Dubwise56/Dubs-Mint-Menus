@@ -29,6 +29,7 @@
   <UnlockedThings>Unlocks Things</UnlockedThings>
   <HideFinishedProjects>Hide finished research projects</HideFinishedProjects>
   <HideLockedProjects>Hide locked research projects</HideLockedProjects>
+  <PinnedRes>Pinned</PinnedRes>
 
   <MintExperimental>Extras</MintExperimental>
   <Autoprojectstep>Auto project step</Autoprojectstep>
