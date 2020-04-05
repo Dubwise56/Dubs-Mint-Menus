@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <EnablePinningResources>Enable Resource pinning</EnablePinningResources>
+  <EnablePinningResourcesTip>Ctrl click on things in the resource readout to pin them to the top (category mode only)</EnablePinningResourcesTip>
+  <ShowHideResourceList>Hide resource readout</ShowHideResourceList>
+  <ShowHideResourceListTip>Hide the resource readout on the left of the screen</ShowHideResourceListTip>
   <dragdropdes>Drag\n&amp;\nDrop</dragdropdes>
   <ReplacePlantMenu>Mint Plant Menu</ReplacePlantMenu>
   <ResearchCompletionMode>Research Completion Mode</ResearchCompletionMode>
