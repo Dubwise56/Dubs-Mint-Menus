@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <ResearchQueueTip>Research Queue - Drag to order</ResearchQueueTip>
   <QueueResearchProj>Queue</QueueResearchProj>
   <EnablePinningResources>Enable Resource pinning</EnablePinningResources>
   <EnablePinningResourcesTip>Ctrl click on things in the resource readout to pin them to the top (category mode only)</EnablePinningResourcesTip>
