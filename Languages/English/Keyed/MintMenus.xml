@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <AutoCloseArchitect>Close on select</AutoCloseArchitect>
+  <AutoCloseArchitectDesc>Closes the architect menu when a designator is selected</AutoCloseArchitectDesc>
   <ResearchQueueTip>Research Queue - Drag to order</ResearchQueueTip>
   <QueueResearchProj>Queue</QueueResearchProj>
   <EnablePinningResources>Enable Resource pinning</EnablePinningResources>
