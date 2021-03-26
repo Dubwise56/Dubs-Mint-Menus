@@ -1,12 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+	<Mint.ConfirmDeleteTemplate>Confirm delete clone</Mint.ConfirmDeleteTemplate>
+	<Mint.RenameTemplateTip>Rename</Mint.RenameTemplateTip>
 	<Mint.Clones>Clones</Mint.Clones>
 	<Mint.Bills>Bills</Mint.Bills>
 	<Mint.PasteTemplateTip>Paste bill stack to table</Mint.PasteTemplateTip>
 	<Mint.CloneBills>Clone Bills</Mint.CloneBills>
 	<Mint.DeleteTemplate>Delete Template</Mint.DeleteTemplate>
 	<Mint.CloneWorktable>Clone the bill stack from this worktable</Mint.CloneWorktable>
-	<Mint.SelectABenchToAddBills>Select a bench to add a template to</Mint.SelectABenchToAddBills>
+	<Mint.SelectABenchToAddBills>Select a bench to add a bill</Mint.SelectABenchToAddBills>
 	<AutoCloseArchitect>Close on select</AutoCloseArchitect>
   <AutoCloseArchitectDesc>Closes the architect menu when a designator is selected</AutoCloseArchitectDesc>
   <ResearchQueueTip>Research Queue - Drag to order</ResearchQueueTip>
