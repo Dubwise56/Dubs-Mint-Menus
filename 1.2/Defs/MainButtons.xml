@@ -34,6 +34,10 @@
 		<tabWindowClass>DubsMintMenus.MainTabWindow_MintBillMenu</tabWindowClass>
 		<buttonVisible>true</buttonVisible>
 		<defaultHotKey>None</defaultHotKey>
+		<order>100</order>
+		<minimized>True</minimized>
+		<iconPath>Mint/UI/Global_bills</iconPath>
+		<validWithoutMap>false</validWithoutMap>
 	</MainButtonDef>
 
 	<KeyBindingCategoryDef>
