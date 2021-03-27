@@ -2,8 +2,6 @@
 <LanguageData>
 	<Mint.ShowBillWorkIcons>Show work to make icons</Mint.ShowBillWorkIcons>
 	<Mint.ShowBillIngredientIcons>Show ingredient icons</Mint.ShowBillIngredientIcons>
-	<Mint.ShowMintBillsButton>Mint Bills button</Mint.ShowMintBillsButton>
-	<Mint.ShowMintBillsButtonTip>Show the Mint Bills button in the main tabs along the bottom</Mint.ShowMintBillsButtonTip>
 	<Mint.ConfirmDeleteTemplate>Confirm delete clone</Mint.ConfirmDeleteTemplate>
 	<Mint.RenameTemplateTip>Rename</Mint.RenameTemplateTip>
 	<Mint.Clones>Clones</Mint.Clones>
