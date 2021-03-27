@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+	<ReplacePlantMenuTip>Open the mint plant menu instead of vanilla drop down, if disabled you can ctrl click to open the mint menu instead</ReplacePlantMenuTip>
 	<Mint.ShowBillWorkIcons>Show work to make icons</Mint.ShowBillWorkIcons>
 	<Mint.ShowBillIngredientIcons>Show ingredient icons</Mint.ShowBillIngredientIcons>
 	<Mint.ConfirmDeleteTemplate>Confirm delete clone</Mint.ConfirmDeleteTemplate>
