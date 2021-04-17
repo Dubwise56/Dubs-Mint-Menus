@@ -2011,8 +2011,6 @@
              <para>
              This delegate supports static fields, even those defined in structs, for legacy reasons.
              For such static fields, <typeparamref name="T"/> is effectively ignored.
-             This is also the reason that this delegate lacks a generic class constraint (it was added to certain <c>FieldRefAccess</c> methods,
-             but such a constraint cannot be added to this delegate without breaking binary compatibility).
              Consider using <see cref="T:HarmonyLib.AccessTools.FieldRef`1"/> (and <c>StaticFieldRefAccess</c> methods that return it) instead for static fields.
              </para>
              </remarks>
@@ -2027,6 +2025,12 @@
              </typeparam>
              <param name="fieldName">The name of the field</param>
              <returns>A readable/assignable <see cref="T:HarmonyLib.AccessTools.FieldRef`2"/> delegate</returns>
+             <remarks>
+             <para>
+             For backwards compatibility, there is no class constraint on <typeparamref name="T"/>.
+             Instead, the non-value-type check is done at runtime within the method.
+             </para>
+             </remarks>
             
         </member>
         <member name="M:HarmonyLib.AccessTools.FieldRefAccess``2(``0,System.String)">
@@ -2044,6 +2048,10 @@
              This method is meant for one-off access to a field's value for a single instance.
              If you need to access a field's value for potentially multiple instances, use <see cref="M:HarmonyLib.AccessTools.FieldRefAccess``2(System.String)"/> instead.
              <c>FieldRefAccess&lt;T, F&gt;(instance, fieldName)</c> is functionally equivalent to <c>FieldRefAccess&lt;T, F&gt;(fieldName)(instance)</c>.
+             </para>
+             <para>
+             For backwards compatibility, there is no class constraint on <typeparamref name="T"/>.
+             Instead, the non-value-type check is done at runtime within the method.
              </para>
              </remarks>
             
@@ -2096,6 +2104,10 @@
              For such static fields, <typeparamref name="T"/> is effectively ignored.
              Consider using <see cref="M:HarmonyLib.AccessTools.StaticFieldRefAccess``2(System.Reflection.FieldInfo)"/> (and other overloads) instead for static fields.
              </para>
+             <para>
+             For backwards compatibility, there is no class constraint on <typeparamref name="T"/>.
+             Instead, the non-value-type check is done at runtime within the method.
+             </para>
              </remarks>
             
         </member>
@@ -2117,6 +2129,10 @@
              This method is meant for one-off access to a field's value for a single instance and where the field has already been obtained.
              If you need to access a field's value for potentially multiple instances, use <see cref="M:HarmonyLib.AccessTools.FieldRefAccess``2(System.Reflection.FieldInfo)"/> instead.
              <c>FieldRefAccess&lt;T, F&gt;(instance, fieldInfo)</c> is functionally equivalent to <c>FieldRefAccess&lt;T, F&gt;(fieldInfo)(instance)</c>.
+             </para>
+             <para>
+             For backwards compatibility, there is no class constraint on <typeparamref name="T"/>.
+             Instead, the non-value-type check is done at runtime within the method.
              </para>
              </remarks>
             
