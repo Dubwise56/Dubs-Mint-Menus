@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+	<Mint.ShowMintBillsButton>Show mint bills main button</Mint.ShowMintBillsButton>
+	<Mint.ShowMintBillsButtonTip>Show the mint bills button on the main tabs list along the bottom of the screen</Mint.ShowMintBillsButtonTip>
 	<ReplacePlantMenuTip>Open the mint plant menu instead of vanilla drop down, if disabled you can ctrl click to open the mint menu instead</ReplacePlantMenuTip>
 	<Mint.ShowBillWorkIcons>Show work to make icons</Mint.ShowBillWorkIcons>
 	<Mint.ShowBillIngredientIcons>Show ingredient icons</Mint.ShowBillIngredientIcons>
