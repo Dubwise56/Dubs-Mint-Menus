@@ -46,19 +46,20 @@
 
 
 	<MainButtonDef>
+		<buttonVisible>false</buttonVisible>
 		<defName>MintGearMenu</defName>
 		<label>mint gear menu</label>
 		<description>View all pawns gear.</description>
-		<tabWindowClass>DubsMintMenus.MintPawns_Gear</tabWindowClass>
-		<buttonVisible>true</buttonVisible>
+		<!--<tabWindowClass>DubsMintMenus.MintPawns_Gear</tabWindowClass>-->
+		<workerClass>DubsMintMenus.MintPawns_GearButton</workerClass>
 		<defaultHotKey>None</defaultHotKey>
 		<order>100</order>
 		<minimized>True</minimized>
-		<iconPath>Mint/UI/Global_bills</iconPath>
+		<iconPath>Mint/UI/Parka</iconPath>
 		<validWithoutMap>false</validWithoutMap>
 	</MainButtonDef>
 
-	<MainButtonDef>
+	<!--<MainButtonDef>
 		<defName>MintNeedsMenu</defName>
 		<label>mint needs menu</label>
 		<description>View all pawns needs.</description>
@@ -82,7 +83,7 @@
 		<minimized>True</minimized>
 		<iconPath>Mint/UI/Global_bills</iconPath>
 		<validWithoutMap>false</validWithoutMap>
-	</MainButtonDef>
+	</MainButtonDef>-->
 
 
 
