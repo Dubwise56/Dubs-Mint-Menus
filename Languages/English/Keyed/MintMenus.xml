@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+	<Mint.AssignMenu>Mint Assign Menu</Mint.AssignMenu>
+	<Mint.AssignMenuDesc>Replace the default assign menu with a mint version</Mint.AssignMenuDesc>
 	<MessageCantEquipWhileDowned>Can't equip while downed</MessageCantEquipWhileDowned>
 	<Mint.ShowMintBillsButton>Show mint bills main button</Mint.ShowMintBillsButton>
 	<Mint.ShowMintBillsButtonTip>Show the mint bills button on the main tabs list along the bottom of the screen</Mint.ShowMintBillsButtonTip>
