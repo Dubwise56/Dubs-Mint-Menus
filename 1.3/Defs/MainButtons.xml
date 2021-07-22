@@ -126,5 +126,11 @@
 		<label>Hide resource readout (except pins)</label>
 		<defaultKeyCodeA></defaultKeyCodeA>
 	</KeyBindingDef>
+	<KeyBindingDef>
+		<category>MintMenus</category>
+		<defName>MintMenus_MintGearMenu</defName>
+		<label>Mint Gear Menu</label>
+		<defaultKeyCodeA></defaultKeyCodeA>
+	</KeyBindingDef>
 
 </Defs>
