@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+	<Mint.AssignMenu>薄荷床位分配菜单</Mint.AssignMenu>
+<Mint.AssignMenuDesc>将薄荷床位分配菜单设为默认床位分配菜单</Mint.AssignMenuDesc>
 	<Mint.ShowMintBillsButton>启用薄荷清单按钮</Mint.ShowMintBillsButton>
 	<Mint.ShowMintBillsButtonTip>在屏幕底部的主选项卡列表中显示“薄荷清单”按钮</Mint.ShowMintBillsButtonTip>
 	<ReplacePlantMenuTip>将薄荷植物菜单设为默认植物菜单（启用后，按住Ctrl单击为原默认菜单，若禁用，则为薄荷植物菜单）</ReplacePlantMenuTip>
