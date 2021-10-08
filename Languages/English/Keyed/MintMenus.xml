@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+	<Mint.Setup>Setup</Mint.Setup>
 	<Mint.AssignMenu>Mint Assign Menu</Mint.AssignMenu>
 	<Mint.AssignMenuDesc>Replace the default assign menu with a mint version</Mint.AssignMenuDesc>
 	<MessageCantEquipWhileDowned>Can't equip while downed</MessageCantEquipWhileDowned>
@@ -37,6 +38,7 @@
 	<BillSearchTip>Searchable words include:\n\nAny words in bill labels or product labels e.g. pants\n\nStuff catagories e.g. leather\n\nBody part groups e.g. head\n\nTags e.g. industrial\n\nLayers e.g. overhead</BillSearchTip>
 	<NoActiveProject>No Active Project</NoActiveProject>
 	<TargetProject>Target Project: {0}</TargetProject>
+	<MintWheelEditMode>Click designators in the architect menu to add them to the wheel\nDrag and drop to arrange in the wheel</MintWheelEditMode>
 	<MintWheelDesc>Mint Wheel {0}/{1} Ctrl+Click to assign</MintWheelDesc>
 	<MintWheelMenu>Mint Wheel Menu</MintWheelMenu>
 	<MintWheelonrightclick>Mint Wheel on right click</MintWheelonrightclick>
