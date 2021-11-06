@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+	<Mint.GearMenu>Mint Gear Menu (Experimental)</Mint.GearMenu>
+	<Mint.GearMenuVisible>Main button visible</Mint.GearMenuVisible>
+	<Mint.GearMenuDesc>Activate a button to open a gear management menu which allows you to drag and drop available gear onto any pawn</Mint.GearMenuDesc>
 	<Mint.Setup>Setup</Mint.Setup>
 	<Mint.AssignMenu>Mint Assign Menu</Mint.AssignMenu>
 	<Mint.AssignMenuDesc>Replace the default assign menu with a mint version</Mint.AssignMenuDesc>

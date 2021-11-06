@@ -46,7 +46,6 @@
 
 
 	<MainButtonDef>
-		<buttonVisible>false</buttonVisible>
 		<defName>MintGearMenu</defName>
 		<label>mint gear menu</label>
 		<description>View all pawns gear.</description>
