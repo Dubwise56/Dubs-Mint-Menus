@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MintMenus_BuildMenu.label>薄荷建筑菜单</MintMenus_BuildMenu.label>
+  <MintMenus_MintResearch.label>薄荷研究菜单</MintMenus_MintResearch.label>
+  <MintMenus_MintWheel.label>薄荷轮盘</MintMenus_MintWheel.label>
+  <MintMenus_MintBillMenu.label>薄荷清单菜单</MintMenus_MintBillMenu.label>
+  <MintMenus_PinningHide.label>隐藏资源统计（固定项除外）</MintMenus_PinningHide.label>
+  <MintMenus_MintGearMenu.label>薄荷装备菜单</MintMenus_MintGearMenu.label>
+
+</LanguageData>

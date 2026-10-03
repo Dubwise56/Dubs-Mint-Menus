@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MintMenus_BuildMenu.label>Menu de construção Mint</MintMenus_BuildMenu.label>
+  <MintMenus_MintResearch.label>Menu de pesquisa Mint</MintMenus_MintResearch.label>
+  <MintMenus_MintWheel.label>Menu em círculo Mint</MintMenus_MintWheel.label>
+  <MintMenus_MintBillMenu.label>Menu de tarefas Mint</MintMenus_MintBillMenu.label>
+  <MintMenus_PinningHide.label>Ocultar leitura de recursos (exceto fixados)</MintMenus_PinningHide.label>
+  <MintMenus_MintGearMenu.label>Menu de equipamento Mint</MintMenus_MintGearMenu.label>
+
+</LanguageData>

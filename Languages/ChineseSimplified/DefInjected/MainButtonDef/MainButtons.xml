@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MintMenus.label>薄荷菜单</MintMenus.label>
+  <MintMenus.description>搜索所有模组的所有建筑。</MintMenus.description>
+  <MintResearch.label>薄荷研究</MintResearch.label>
+  <MintResearch.description>搜索研究项目。</MintResearch.description>
+  <MintDesignators.label>薄荷指令</MintDesignators.label>
+  <MintDesignators.description>快速选择指令。</MintDesignators.description>
+  <MintBillMenu.label>薄荷清单菜单</MintBillMenu.label>
+  <MintBillMenu.description>查看所有清单。</MintBillMenu.description>
+  <MintGearMenu.label>薄荷装备菜单</MintGearMenu.label>
+  <MintGearMenu.description>查看所有殖民者的装备。</MintGearMenu.description>
+
+</LanguageData>

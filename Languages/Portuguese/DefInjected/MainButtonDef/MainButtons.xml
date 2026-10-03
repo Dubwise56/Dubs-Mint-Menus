@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MintMenus.label>menus Mint</MintMenus.label>
+  <MintMenus.description>Procura em todas as construções de todos os mods.</MintMenus.description>
+  <MintResearch.label>pesquisa Mint</MintResearch.label>
+  <MintResearch.description>Procura projetos de pesquisa.</MintResearch.description>
+  <MintDesignators.label>designadores Mint</MintDesignators.label>
+  <MintDesignators.description>Seleção rápida de designadores.</MintDesignators.description>
+  <MintBillMenu.label>menu de tarefas Mint</MintBillMenu.label>
+  <MintBillMenu.description>Mostra todas as tarefas.</MintBillMenu.description>
+  <MintGearMenu.label>menu de equipamento Mint</MintGearMenu.label>
+  <MintGearMenu.description>Mostra o equipamento de todos os colonos.</MintGearMenu.description>
+
+</LanguageData>

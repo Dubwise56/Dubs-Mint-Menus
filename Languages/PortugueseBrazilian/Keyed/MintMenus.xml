@@ -8,17 +8,13 @@
   <EnablePinningResourcesTip>Ctrl+Clique na parte de leitura dos recurso para fixá-los (Modo de categoria apenas)</EnablePinningResourcesTip>
   <ShowHideResourceList>Ocultar leitura de recursos</ShowHideResourceList>
   <ShowHideResourceListTip>Ocultar a leitura de recursos à esquerda da tela</ShowHideResourceListTip>
-  <dragdropdes>Arrastar\n&amp;\nSolta</dragdropdes>
   <ReplacePlantMenu>Menu de plantas</ReplacePlantMenu>
   <ResearchCompletionMode>Modo de conclusão da pesquisa</ResearchCompletionMode>
   <MintHelpLinks>Links de suporte</MintHelpLinks>
   <MintDiscord>Dubs Mods Discord</MintDiscord>
-  <ProjectStalled>Os requisitos do projeto de pesquisa não são atendidos</ProjectStalled>
   <ProjectStopped>Projeto parado</ProjectStopped>
   <MintWiki>Menus Wiki</MintWiki>
-  <SetButtonsFromBuildo>Adicione opções usando o menu padrão (Segure Ctrl+clique na sobre o icone desejado)</SetButtonsFromBuildo>
-  <BillSearchTip>Palavras pesquisáveis incluem:\n\nQuaisquer menções em rótulos ou rótulos de produtos e.g. Calças\n\nCatagories de coisas e.g. Couro\n\nGrupos de partes corporais e.g. Cabeça\n\nTags e.g. Industrial\n\nCamadas e.g. Sobrecarga</BillSearchTip>
-  <NoActiveProject>Nenhum projeto ativo</NoActiveProject>
+  <BillSearchTip>Palavras pesquisáveis incluem:\n\nQuaisquer menções em rótulos ou rótulos de produtos e.g. Calças\n\nCategorias de materiais e.g. Couro\n\nGrupos de partes corporais e.g. Cabeça\n\nTags e.g. Industrial\n\nCamadas e.g. Sobrecarga</BillSearchTip>
   <TargetProject>Projeto-alvo: {0}</TargetProject>
   <MintWheelDesc>Menu {0}/{1} Ctrl+Clique para atribuir</MintWheelDesc>
   <MintWheelMenu>Menu</MintWheelMenu>
@@ -28,28 +24,71 @@
   <MintBuildMenu>Menu de construção</MintBuildMenu>
   <AutoFocusSearch>Caixa de pesquisa de foco automático</AutoFocusSearch>
   <AutoFocusSearchDesc>Focalize automaticamente a caixa de pesquisa para começar a digitar cada vez que o menu de construção é aberto</AutoFocusSearchDesc>
-  <OverrideArchitectTab>Substituir a guia arquiteto</OverrideArchitectTab>
-  <OverrideArchitectTabDesc>Faça do menu de compilação de e a guia de arquiteto padrão (Segure Ctrl para padrão)</OverrideArchitectTabDesc>
+  <OverrideArchitectTab>Substituir a guia de arquiteto</OverrideArchitectTab>
+  <OverrideArchitectTabDesc>Faz do menu de construção Mint a guia de arquiteto padrão (segure Ctrl para o padrão)</OverrideArchitectTabDesc>
   <ResearchMenu>Menu de pesquisa</ResearchMenu>
   <MintListWidth>Largura de lista</MintListWidth>
   <OverrideResearchTab>Substituir a guia Pesquisa</OverrideResearchTab>
-  <OverrideResearchTabDesc>Faça do menu de pesquisa e a guia de pesquisa padrão (Segure Ctrl para padrão)</OverrideResearchTabDesc>
+  <OverrideResearchTabDesc>Faz do menu de pesquisa Mint a guia de pesquisa padrão (segure Ctrl para o padrão)</OverrideResearchTabDesc>
   <UnlockedThings>Desbloqueia coisas</UnlockedThings>
   <HideFinishedProjects>Ocultar projetos de pesquisa acabados</HideFinishedProjects>
   <HideLockedProjects>Ocultar projetos de pesquisa bloqueada</HideLockedProjects>
   <PinnedRes>Fixado</PinnedRes>
 
-  <MintExperimental>Extras</MintExperimental>
-  <Autoprojectstep>Etapas do projeto automático</Autoprojectstep>
-  <AutoprojectstepDesc>Inicie automaticamente a próxima etapa do projeto de pesquisa para concluir o projeto-alvo</AutoprojectstepDesc>
-  <MintBills>Opções</MintBills>
+  <MintBills>Tarefas</MintBills>
   <ListWidth>Largura de lista</ListWidth>
   <RowHeight>Altura da linha</RowHeight>
   <InfocardWidth>Largura do infocard</InfocardWidth>
   <TopOffset>Deslocamento superior</TopOffset>
   <MaxHeight>Altura máxima</MaxHeight>
-  <MintPlants>Menus de plants</MintPlants>
+  <MintPlants>Menu de plantas</MintPlants>
   <BoxSizeX>Largura da caixa</BoxSizeX>
   <BoxSizeY>Altura da caixa</BoxSizeY>
   <MintResetAll>Redefinir tudo</MintResetAll>
+  <Mint.GearMenu>Menu de equipamento Mint</Mint.GearMenu>
+  <Mint.GearMenuVisible>Botão principal visível</Mint.GearMenuVisible>
+  <Mint.GearMenuDesc>Ativa um botão que abre um menu de gestão de equipamento, onde é possível arrastar e soltar o equipamento disponível em qualquer colono</Mint.GearMenuDesc>
+  <Mint.Setup>Configurar</Mint.Setup>
+  <Mint.AssignMenu>Menu de atribuição Mint</Mint.AssignMenu>
+  <Mint.AssignMenuDesc>Substitui o menu de atribuição padrão por uma versão Mint</Mint.AssignMenuDesc>
+  <MessageCantEquipWhileDowned>Não é possível equipar enquanto caído</MessageCantEquipWhileDowned>
+  <Mint.ShowMintBillsButton>Mostrar o botão principal de tarefas Mint</Mint.ShowMintBillsButton>
+  <Mint.ShowMintBillsButtonTip>Mostra o botão de tarefas Mint na lista de guias principais, na parte inferior da tela</Mint.ShowMintBillsButtonTip>
+  <ReplacePlantMenuTip>Abre o menu de plantas Mint em vez da lista suspensa padrão; se desativado, use Ctrl+clique para abrir o menu Mint</ReplacePlantMenuTip>
+  <Mint.ShowBillWorkIcons>Mostrar ícones de trabalho necessário</Mint.ShowBillWorkIcons>
+  <Mint.ShowBillIngredientIcons>Mostrar ícones de ingredientes</Mint.ShowBillIngredientIcons>
+  <Mint.PinCompareTip>Fixa a última tarefa destacada e compara-a com a tarefa sob o cursor</Mint.PinCompareTip>
+  <Mint.CompareDifferencesOnly>Apenas diferenças</Mint.CompareDifferencesOnly>
+  <Mint.CompareNoDifferences>Sem diferenças</Mint.CompareNoDifferences>
+  <Mint.ConfirmDeleteTemplate>Confirmar exclusão do clone</Mint.ConfirmDeleteTemplate>
+  <Mint.RenameTemplateTip>Renomear</Mint.RenameTemplateTip>
+  <Mint.Clones>Clones</Mint.Clones>
+  <Mint.Bills>Tarefas</Mint.Bills>
+  <Mint.PasteTemplateTip>Colar a lista de tarefas na bancada</Mint.PasteTemplateTip>
+  <Mint.CloneBills>Clonar tarefas</Mint.CloneBills>
+  <Mint.DeleteTemplate>Excluir modelo</Mint.DeleteTemplate>
+  <Mint.CloneWorktable>Clonar a lista de tarefas desta bancada</Mint.CloneWorktable>
+  <Mint.SelectABenchToAddBills>Selecione uma bancada para adicionar uma tarefa</Mint.SelectABenchToAddBills>
+  <MintWheelEditMode>Clique nos designadores do menu arquiteto para adicioná-los ao menu em círculo\nArraste e solte para organizar o menu em círculo</MintWheelEditMode>
+  <MintResourceReadout>Leitura de recursos Mint</MintResourceReadout>
+  <Mint.ConfirmDisallowBuilding>Proibir a construção de {0}?</Mint.ConfirmDisallowBuilding>
+  <Mint.SomethingWentWrong>Ops, algo deu errado!</Mint.SomethingWentWrong>
+  <Mint.ResearchTabs>Guias</Mint.ResearchTabs>
+  <Mint.ProjectsShiftClickToQueue>Projetos - Shift+clique para pôr na fila</Mint.ProjectsShiftClickToQueue>
+  <Mint.QueueCurrent>Atual</Mint.QueueCurrent>
+  <Mint.QueueStep>Etapa {0}/{1}</Mint.QueueStep>
+  <Mint.CompletionModeDialog>Diálogo</Mint.CompletionModeDialog>
+  <Mint.CompletionModeLetter>Carta</Mint.CompletionModeLetter>
+  <Mint.SortWeapon>Arma</Mint.SortWeapon>
+  <Mint.SortColonistBar>Barra de colonos</Mint.SortColonistBar>
+  <Mint.PinCompareBuildingTip>Fixa esta construção e compara-a com a construção sob o cursor. Shift+clique em qualquer construção para fixá-la.</Mint.PinCompareBuildingTip>
+  <Mint.SortByStat>Ordenar por atributo</Mint.SortByStat>
+  <Mint.SortDefault>Ordem padrão</Mint.SortDefault>
+  <Mint.SortedByHigh>{0}, maior primeiro</Mint.SortedByHigh>
+  <Mint.SortedByLow>{0}, menor primeiro</Mint.SortedByLow>
+  <Mint.SortTip>Ordena as construções mostradas por um atributo e mostra o valor de cada uma. Escolha o mesmo atributo de novo para inverter a ordem. Sem nenhuma categoria selecionada, todas as categorias são ordenadas juntas e as construções sem o atributo não são mostradas.</Mint.SortTip>
+  <Mint.Search>Pesquisar</Mint.Search>
+  <Mint.PinCategoryTip>Fixa esta categoria no topo da lista</Mint.PinCategoryTip>
+  <Mint.ShowAsList>Mostrar como lista</Mint.ShowAsList>
+  <Mint.ShowAsGrid>Mostrar como grade</Mint.ShowAsGrid>
 </LanguageData>

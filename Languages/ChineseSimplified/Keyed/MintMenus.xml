@@ -24,17 +24,13 @@
 	<EnablePinningResourcesTip>Ctrl+左键将某资源固定到顶端（仅限类别模式）</EnablePinningResourcesTip>
 	<ShowHideResourceList>隐藏资源统计</ShowHideResourceList>
 	<ShowHideResourceListTip>隐藏屏幕左侧的资源统计</ShowHideResourceListTip>
-	<dragdropdes>拖动以交换</dragdropdes>
 	<ReplacePlantMenu>启用薄荷植物菜单</ReplacePlantMenu>
 	<ResearchCompletionMode>当研究完成后的通知方式</ResearchCompletionMode>
 	<MintHelpLinks>支持链接（T.R.汉化）</MintHelpLinks>
 	<MintDiscord>薄荷菜单的Discord交流社区</MintDiscord>
-	<ProjectStalled>研究要求未满足</ProjectStalled>
 	<ProjectStopped>研究项目已停止</ProjectStopped>
 	<MintWiki>薄荷菜单的维基百科</MintWiki>
-	<SetButtonsFromBuildo>按Ctrl+左键为薄荷轮盘添加建筑项目</SetButtonsFromBuildo>
 	<BillSearchTip>可搜索词包括：\n\n清单列表或产品列表中的任何词，例如裤子\n\n材料类别，例如皮革\n\n身体部分，例如头\n\n分类，例如工业\n\n装备部位，例如帽子</BillSearchTip>
-	<NoActiveProject>没有正在进行的研究项目</NoActiveProject>
 	<TargetProject>目标项目：{0}</TargetProject>
 	<MintWheelDesc>薄荷轮盘{0}/{1} Ctrl+单击以分配</MintWheelDesc>
 	<MintWheelMenu>薄荷轮盘菜单</MintWheelMenu>
@@ -55,9 +51,6 @@
 	<HideLockedProjects>隐藏锁定的研究项目</HideLockedProjects>
 	<PinnedRes>固定</PinnedRes>
 	<MintResourceReadout>薄荷资源显示</MintResourceReadout>
-	<MintExperimental>附加</MintExperimental>
-	<Autoprojectstep>自动研究</Autoprojectstep>
-	<AutoprojectstepDesc>自动启动下一个研究项目步骤以完成目标项目</AutoprojectstepDesc>
 	<MintBills>薄荷清单</MintBills>
 	<ListWidth>详细信息栏宽度</ListWidth>
 	<RowHeight>详细信息栏高度</RowHeight>
@@ -68,4 +61,33 @@
 	<BoxSizeX>植物图标宽度</BoxSizeX>
 	<BoxSizeY>植物图标高度</BoxSizeY>
 	<MintResetAll>全部重置</MintResetAll>
+	<Mint.GearMenu>薄荷装备菜单</Mint.GearMenu>
+	<Mint.GearMenuVisible>显示主按钮</Mint.GearMenuVisible>
+	<Mint.GearMenuDesc>启用一个按钮，打开装备管理菜单，可将可用的装备拖放到任意殖民者身上</Mint.GearMenuDesc>
+	<Mint.Setup>设置</Mint.Setup>
+	<MessageCantEquipWhileDowned>倒地时无法装备</MessageCantEquipWhileDowned>
+	<Mint.PinCompareTip>固定最后悬停的清单，并与鼠标下的清单进行比较</Mint.PinCompareTip>
+	<Mint.CompareDifferencesOnly>仅显示差异</Mint.CompareDifferencesOnly>
+	<Mint.CompareNoDifferences>没有差异</Mint.CompareNoDifferences>
+	<MintWheelEditMode>点击建筑规划菜单中的项目，将其添加到轮盘\n拖放以调整轮盘中的位置</MintWheelEditMode>
+	<Mint.ConfirmDisallowBuilding>禁止建造{0}？</Mint.ConfirmDisallowBuilding>
+	<Mint.SomethingWentWrong>哎呀，出错了！</Mint.SomethingWentWrong>
+	<Mint.ResearchTabs>分类</Mint.ResearchTabs>
+	<Mint.ProjectsShiftClickToQueue>研究项目 - Shift+单击加入队列</Mint.ProjectsShiftClickToQueue>
+	<Mint.QueueCurrent>当前</Mint.QueueCurrent>
+	<Mint.QueueStep>步骤 {0}/{1}</Mint.QueueStep>
+	<Mint.CompletionModeDialog>对话框</Mint.CompletionModeDialog>
+	<Mint.CompletionModeLetter>信件</Mint.CompletionModeLetter>
+	<Mint.SortWeapon>武器</Mint.SortWeapon>
+	<Mint.SortColonistBar>殖民者栏</Mint.SortColonistBar>
+	<Mint.PinCompareBuildingTip>固定此建筑，并与鼠标下的建筑进行比较。按住Shift点击任意建筑即可固定。</Mint.PinCompareBuildingTip>
+	<Mint.SortByStat>按属性排序</Mint.SortByStat>
+	<Mint.SortDefault>默认顺序</Mint.SortDefault>
+	<Mint.SortedByHigh>{0}，从高到低</Mint.SortedByHigh>
+	<Mint.SortedByLow>{0}，从低到高</Mint.SortedByLow>
+	<Mint.SortTip>按属性对显示的建筑排序，并显示其数值。再次选择同一属性可反转顺序。未选择分类时，所有分类会一起排名，没有该属性的建筑不会显示。</Mint.SortTip>
+	<Mint.Search>搜索</Mint.Search>
+	<Mint.PinCategoryTip>将此分类固定在列表顶部</Mint.PinCategoryTip>
+	<Mint.ShowAsList>以列表显示</Mint.ShowAsList>
+	<Mint.ShowAsGrid>以网格显示</Mint.ShowAsGrid>
 </LanguageData>
