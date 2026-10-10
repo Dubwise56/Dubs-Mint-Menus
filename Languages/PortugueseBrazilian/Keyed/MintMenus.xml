@@ -91,4 +91,38 @@
   <Mint.PinCategoryTip>Fixa esta categoria no topo da lista</Mint.PinCategoryTip>
   <Mint.ShowAsList>Mostrar como lista</Mint.ShowAsList>
   <Mint.ShowAsGrid>Mostrar como grade</Mint.ShowAsGrid>
+  <Mint.WheelLayout>Disposição</Mint.WheelLayout>
+  <Mint.WheelLayoutTip>Círculo: anéis em volta do mouse.\nGrade: linhas e colunas em volta do mouse.</Mint.WheelLayoutTip>
+  <Mint.WheelLayoutWheel>Círculo</Mint.WheelLayoutWheel>
+  <Mint.WheelLayoutGrid>Grade</Mint.WheelLayoutGrid>
+  <Mint.WheelSizing>Tamanho</Mint.WheelSizing>
+  <Mint.WheelSizingTip>Fixo: um número definido de posições que mantêm o lugar, com as vazias à mostra.\nAutomático: o círculo ou a grade cresce conforme você adiciona botões.</Mint.WheelSizingTip>
+  <Mint.WheelSizingFixed>Fixo</Mint.WheelSizingFixed>
+  <Mint.WheelSizingAuto>Automático</Mint.WheelSizingAuto>
+  <Mint.AutoWheelEditMode>Clique em designadores no menu arquiteto ou no menu de construção Mint para adicioná-los, ou em um que já esteja no menu para tirá-lo. Clique antes em um botão para colocar os próximos designadores na frente dele.\nArraste botões para trocá-los, clique com o botão direito para tirar um.</Mint.AutoWheelEditMode>
+  <Mint.WheelColumns>Colunas: {0}</Mint.WheelColumns>
+  <Mint.WheelGridRows>Linhas: {0}</Mint.WheelGridRows>
+  <Mint.DesignatorBars>Barras de designadores</Mint.DesignatorBars>
+  <Mint.ShowDesignatorBars>Mostrar barras de designadores</Mint.ShowDesignatorBars>
+  <Mint.DesignatorBarsTip>Fileiras de botões de designadores que ficam sempre na tela. Configure-as com a engrenagem que aparece ao passar o mouse sobre uma barra.</Mint.DesignatorBarsTip>
+  <Mint.SetUpBars>Configurar barras</Mint.SetUpBars>
+  <Mint.BarSetupTip>Configurar barras de designadores</Mint.BarSetupTip>
+  <Mint.BarSetupHelp>Clique em uma posição e depois em designadores no menu arquiteto ou no menu de construção Mint para preenchê-la.\nArraste posições para reorganizá-las, clique com o botão direito para limpar. Arraste uma barra pelo título.</Mint.BarSetupHelp>
+  <Mint.AddBar>Adicionar barra</Mint.AddBar>
+  <Mint.BarLabel>Barra {0}: {1}x{2}</Mint.BarLabel>
+  <Mint.BarMoveTip>Arraste para mover a barra.</Mint.BarMoveTip>
+  <Mint.DeleteBarTip>Excluir esta barra.</Mint.DeleteBarTip>
+  <Mint.DeleteBarConfirm>Excluir esta barra e seus botões?</Mint.DeleteBarConfirm>
+  <Mint.BarBiggerTip>Botões maiores.</Mint.BarBiggerTip>
+  <Mint.BarSmallerTip>Botões menores.</Mint.BarSmallerTip>
+  <Mint.BarAddRowTip>Adicionar uma linha.</Mint.BarAddRowTip>
+  <Mint.BarRemoveRowTip>Remover a linha de baixo.</Mint.BarRemoveRowTip>
+  <Mint.BarAddColumnTip>Adicionar uma coluna.</Mint.BarAddColumnTip>
+  <Mint.BarRemoveColumnTip>Remover a coluna da direita.</Mint.BarRemoveColumnTip>
+  <Mint.FixedWheelEditMode>Clique em uma posição e depois em designadores no menu arquiteto ou no menu de construção Mint para preenchê-la. Sem posição escolhida, um clique preenche a primeira posição vazia, ou tira um designador que já esteja no menu.\nArraste posições para trocá-las, clique com o botão direito para limpar.</Mint.FixedWheelEditMode>
+  <Mint.WheelRings>Anéis: {0}</Mint.WheelRings>
+  <Mint.WheelButtonSize>Tamanho dos botões: {0}</Mint.WheelButtonSize>
+  <Mint.AddRingTip>Adicionar um anel de posições.</Mint.AddRingTip>
+  <Mint.RemoveRingTip>Remover o anel externo.</Mint.RemoveRingTip>
+  <Mint.WheelFull>O menu em círculo está cheio. Adicione um anel na configuração do menu.</Mint.WheelFull>
 </LanguageData>

@@ -90,4 +90,38 @@
 	<Mint.PinCategoryTip>Pin this category to the top of the list</Mint.PinCategoryTip>
 	<Mint.ShowAsList>Show as a list</Mint.ShowAsList>
 	<Mint.ShowAsGrid>Show as a grid</Mint.ShowAsGrid>
+	<Mint.WheelLayout>Layout</Mint.WheelLayout>
+	<Mint.WheelLayoutTip>Wheel: rings around the mouse.\nGrid: rows and columns around the mouse.</Mint.WheelLayoutTip>
+	<Mint.WheelLayoutWheel>Wheel</Mint.WheelLayoutWheel>
+	<Mint.WheelLayoutGrid>Grid</Mint.WheelLayoutGrid>
+	<Mint.WheelSizing>Size</Mint.WheelSizing>
+	<Mint.WheelSizingTip>Fixed: a set number of slots that keep their place, empty ones shown.\nAuto: the wheel or grid grows as you add buttons.</Mint.WheelSizingTip>
+	<Mint.WheelSizingFixed>Fixed</Mint.WheelSizingFixed>
+	<Mint.WheelSizingAuto>Auto</Mint.WheelSizingAuto>
+	<Mint.AutoWheelEditMode>Click designators in the architect or Mint build menu to add them, or click one already on the wheel to take it off. Click a button first to put the next designators in front of it.\nDrag buttons to swap them, right-click to take one off.</Mint.AutoWheelEditMode>
+	<Mint.WheelColumns>Columns: {0}</Mint.WheelColumns>
+	<Mint.WheelGridRows>Rows: {0}</Mint.WheelGridRows>
+	<Mint.DesignatorBars>Designator bars</Mint.DesignatorBars>
+	<Mint.ShowDesignatorBars>Show designator bars</Mint.ShowDesignatorBars>
+	<Mint.DesignatorBarsTip>Rows of designator buttons that stay on screen. Set them up with the cog that shows when the mouse is over a bar.</Mint.DesignatorBarsTip>
+	<Mint.SetUpBars>Set up bars</Mint.SetUpBars>
+	<Mint.BarSetupTip>Set up designator bars</Mint.BarSetupTip>
+	<Mint.BarSetupHelp>Click a slot, then click designators in the architect or Mint build menu to fill it.\nDrag slots to rearrange them, right-click to clear one. Drag a bar by its title.</Mint.BarSetupHelp>
+	<Mint.AddBar>Add bar</Mint.AddBar>
+	<Mint.BarLabel>Bar {0}: {1}x{2}</Mint.BarLabel>
+	<Mint.BarMoveTip>Drag to move the bar.</Mint.BarMoveTip>
+	<Mint.DeleteBarTip>Delete this bar.</Mint.DeleteBarTip>
+	<Mint.DeleteBarConfirm>Delete this bar and its buttons?</Mint.DeleteBarConfirm>
+	<Mint.BarBiggerTip>Bigger buttons.</Mint.BarBiggerTip>
+	<Mint.BarSmallerTip>Smaller buttons.</Mint.BarSmallerTip>
+	<Mint.BarAddRowTip>Add a row.</Mint.BarAddRowTip>
+	<Mint.BarRemoveRowTip>Remove the bottom row.</Mint.BarRemoveRowTip>
+	<Mint.BarAddColumnTip>Add a column.</Mint.BarAddColumnTip>
+	<Mint.BarRemoveColumnTip>Remove the right column.</Mint.BarRemoveColumnTip>
+	<Mint.FixedWheelEditMode>Click a slot, then click designators in the architect or Mint build menu to fill it. With no slot chosen, a click adds to the first empty slot, or takes a designator already on the wheel off.\nDrag slots to swap them, right-click to clear one.</Mint.FixedWheelEditMode>
+	<Mint.WheelRings>Rings: {0}</Mint.WheelRings>
+	<Mint.WheelButtonSize>Button size: {0}</Mint.WheelButtonSize>
+	<Mint.AddRingTip>Add a ring of slots.</Mint.AddRingTip>
+	<Mint.RemoveRingTip>Remove the outer ring.</Mint.RemoveRingTip>
+	<Mint.WheelFull>The Mint wheel is full. Add a ring in the wheel's setup.</Mint.WheelFull>
 </LanguageData>

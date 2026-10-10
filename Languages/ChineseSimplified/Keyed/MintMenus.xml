@@ -90,4 +90,38 @@
 	<Mint.PinCategoryTip>将此分类固定在列表顶部</Mint.PinCategoryTip>
 	<Mint.ShowAsList>以列表显示</Mint.ShowAsList>
 	<Mint.ShowAsGrid>以网格显示</Mint.ShowAsGrid>
+	<Mint.WheelLayout>布局</Mint.WheelLayout>
+	<Mint.WheelLayoutTip>轮盘：围绕鼠标的圈。\n网格：围绕鼠标的行和列。</Mint.WheelLayoutTip>
+	<Mint.WheelLayoutWheel>轮盘</Mint.WheelLayoutWheel>
+	<Mint.WheelLayoutGrid>网格</Mint.WheelLayoutGrid>
+	<Mint.WheelSizing>大小</Mint.WheelSizing>
+	<Mint.WheelSizingTip>固定：固定数量、位置不变的格子，空位也会显示。\n自动：添加按钮时轮盘或网格随之扩大。</Mint.WheelSizingTip>
+	<Mint.WheelSizingFixed>固定</Mint.WheelSizingFixed>
+	<Mint.WheelSizingAuto>自动</Mint.WheelSizingAuto>
+	<Mint.AutoWheelEditMode>在建筑规划菜单或 Mint 建造菜单中点击项目来添加，点击已在轮盘上的项目则将其移除。先点击一个按钮，接下来的项目会插在它前面。\n拖动按钮可交换位置，右键点击可移除。</Mint.AutoWheelEditMode>
+	<Mint.WheelColumns>列数：{0}</Mint.WheelColumns>
+	<Mint.WheelGridRows>行数：{0}</Mint.WheelGridRows>
+	<Mint.DesignatorBars>快捷栏</Mint.DesignatorBars>
+	<Mint.ShowDesignatorBars>显示快捷栏</Mint.ShowDesignatorBars>
+	<Mint.DesignatorBarsTip>常驻屏幕的建造按钮栏。鼠标移到快捷栏上时会出现齿轮按钮，点击即可设置。</Mint.DesignatorBarsTip>
+	<Mint.SetUpBars>设置快捷栏</Mint.SetUpBars>
+	<Mint.BarSetupTip>设置快捷栏</Mint.BarSetupTip>
+	<Mint.BarSetupHelp>点击一个格子，然后在建筑规划菜单或 Mint 建造菜单中点击项目来填入。\n拖动格子可调整位置，右键点击可清空。拖动标题栏可移动快捷栏。</Mint.BarSetupHelp>
+	<Mint.AddBar>添加快捷栏</Mint.AddBar>
+	<Mint.BarLabel>快捷栏 {0}：{1}x{2}</Mint.BarLabel>
+	<Mint.BarMoveTip>拖动以移动快捷栏。</Mint.BarMoveTip>
+	<Mint.DeleteBarTip>删除此快捷栏。</Mint.DeleteBarTip>
+	<Mint.DeleteBarConfirm>删除此快捷栏及其中的按钮？</Mint.DeleteBarConfirm>
+	<Mint.BarBiggerTip>放大按钮。</Mint.BarBiggerTip>
+	<Mint.BarSmallerTip>缩小按钮。</Mint.BarSmallerTip>
+	<Mint.BarAddRowTip>添加一行。</Mint.BarAddRowTip>
+	<Mint.BarRemoveRowTip>移除最下面一行。</Mint.BarRemoveRowTip>
+	<Mint.BarAddColumnTip>添加一列。</Mint.BarAddColumnTip>
+	<Mint.BarRemoveColumnTip>移除最右边一列。</Mint.BarRemoveColumnTip>
+	<Mint.FixedWheelEditMode>点击一个格子，然后在建筑规划菜单或 Mint 建造菜单中点击项目来填入。未选格子时，点击会填入第一个空位，或移除已在轮盘上的项目。\n拖动格子可交换位置，右键点击可清空。</Mint.FixedWheelEditMode>
+	<Mint.WheelRings>圈数：{0}</Mint.WheelRings>
+	<Mint.WheelButtonSize>按钮大小：{0}</Mint.WheelButtonSize>
+	<Mint.AddRingTip>添加一圈格子。</Mint.AddRingTip>
+	<Mint.RemoveRingTip>移除最外圈。</Mint.RemoveRingTip>
+	<Mint.WheelFull>Mint 轮盘已满。请在轮盘设置中添加一圈。</Mint.WheelFull>
 </LanguageData>

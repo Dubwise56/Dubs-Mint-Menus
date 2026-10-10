@@ -40,9 +40,7 @@ Unlocked thing name
 Unlocked recipe name
 Unlocked plant name
 
-https://ludeon.com/forums/index.php?topic=29043.0
-
-Discord for my mods: https://discord.gg/bajcjsu]Discord
+Discord for my mods: https://discord.gg/bajcjsu
 
 Check out my other mods here:
 https://steamcommunity.com/profiles/76561197976408970/myworkshopfiles/?appid=294100

@@ -91,4 +91,38 @@
   <Mint.PinCategoryTip>이 분류를 목록 맨 위에 고정합니다.</Mint.PinCategoryTip>
   <Mint.ShowAsList>목록으로 보기</Mint.ShowAsList>
   <Mint.ShowAsGrid>격자로 보기</Mint.ShowAsGrid>
+  <Mint.WheelLayout>배치</Mint.WheelLayout>
+  <Mint.WheelLayoutTip>휠: 마우스 둘레의 고리.\n격자: 마우스 둘레의 행과 열.</Mint.WheelLayoutTip>
+  <Mint.WheelLayoutWheel>휠</Mint.WheelLayoutWheel>
+  <Mint.WheelLayoutGrid>격자</Mint.WheelLayoutGrid>
+  <Mint.WheelSizing>크기</Mint.WheelSizing>
+  <Mint.WheelSizingTip>고정: 위치가 고정된 정해진 수의 칸, 빈 칸도 표시됩니다.\n자동: 버튼을 추가할수록 휠이나 격자가 커집니다.</Mint.WheelSizingTip>
+  <Mint.WheelSizingFixed>고정</Mint.WheelSizingFixed>
+  <Mint.WheelSizingAuto>자동</Mint.WheelSizingAuto>
+  <Mint.AutoWheelEditMode>구상 메뉴나 Mint 건설 메뉴에서 지시자를 클릭해 추가하고, 이미 휠에 있는 것을 클릭하면 빠집니다. 먼저 버튼을 클릭하면 다음 지시자들이 그 앞에 들어갑니다.\n버튼을 끌어 서로 바꾸고, 우클릭으로 빼세요.</Mint.AutoWheelEditMode>
+  <Mint.WheelColumns>열: {0}</Mint.WheelColumns>
+  <Mint.WheelGridRows>행: {0}</Mint.WheelGridRows>
+  <Mint.DesignatorBars>지시자 막대</Mint.DesignatorBars>
+  <Mint.ShowDesignatorBars>지시자 막대 표시</Mint.ShowDesignatorBars>
+  <Mint.DesignatorBarsTip>화면에 항상 표시되는 지시자 버튼 막대입니다. 막대 위에 마우스를 올리면 나타나는 톱니바퀴로 설정하세요.</Mint.DesignatorBarsTip>
+  <Mint.SetUpBars>막대 설정</Mint.SetUpBars>
+  <Mint.BarSetupTip>지시자 막대 설정</Mint.BarSetupTip>
+  <Mint.BarSetupHelp>칸을 클릭한 다음 구상 메뉴나 Mint 건설 메뉴에서 지시자를 클릭해 채우세요.\n칸을 끌어 순서를 바꾸고, 우클릭으로 비우세요. 제목을 끌어 막대를 옮기세요.</Mint.BarSetupHelp>
+  <Mint.AddBar>막대 추가</Mint.AddBar>
+  <Mint.BarLabel>막대 {0}: {1}x{2}</Mint.BarLabel>
+  <Mint.BarMoveTip>끌어서 막대를 옮깁니다.</Mint.BarMoveTip>
+  <Mint.DeleteBarTip>이 막대를 삭제합니다.</Mint.DeleteBarTip>
+  <Mint.DeleteBarConfirm>이 막대와 버튼을 삭제할까요?</Mint.DeleteBarConfirm>
+  <Mint.BarBiggerTip>버튼 크게.</Mint.BarBiggerTip>
+  <Mint.BarSmallerTip>버튼 작게.</Mint.BarSmallerTip>
+  <Mint.BarAddRowTip>줄 추가.</Mint.BarAddRowTip>
+  <Mint.BarRemoveRowTip>맨 아래 줄 제거.</Mint.BarRemoveRowTip>
+  <Mint.BarAddColumnTip>열 추가.</Mint.BarAddColumnTip>
+  <Mint.BarRemoveColumnTip>맨 오른쪽 열 제거.</Mint.BarRemoveColumnTip>
+  <Mint.FixedWheelEditMode>칸을 클릭한 다음 구상 메뉴나 Mint 건설 메뉴에서 지시자를 클릭해 채우세요. 칸을 고르지 않으면 첫 빈 칸에 추가되거나, 이미 휠에 있는 지시자는 빠집니다.\n칸을 끌어 서로 바꾸고, 우클릭으로 비우세요.</Mint.FixedWheelEditMode>
+  <Mint.WheelRings>고리: {0}</Mint.WheelRings>
+  <Mint.WheelButtonSize>버튼 크기: {0}</Mint.WheelButtonSize>
+  <Mint.AddRingTip>칸 고리 추가.</Mint.AddRingTip>
+  <Mint.RemoveRingTip>바깥 고리 제거.</Mint.RemoveRingTip>
+  <Mint.WheelFull>Mint 휠이 가득 찼습니다. 휠 설정에서 고리를 추가하세요.</Mint.WheelFull>
 </LanguageData>
